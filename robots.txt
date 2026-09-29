@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /build/
+Disallow: /docs/
+
+Sitemap: https://4gnet.com/sitemap.xml

@@ -1,0 +1,7 @@
+/* TEAM */
+Site: 4GNet.com — Wireless Internet Hub
+Contact: https://web.works/contact
+
+/* SITE */
+Standards: HTML5, CSS3, vanilla JavaScript
+Hosting: GitHub Pages
